@@ -1,0 +1,10 @@
+imageio==2.18.0
+numpy==1.21.5
+open3d==0.15.1
+opencv_python==4.5.5.62
+Pillow==9.1.0
+pupil_apriltags==1.0.4
+pyransac3d==0.6.0
+pyrealsense2==2.50.0.3812
+scipy==1.7.3
+sympy==1.10.1
